@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = "1.0.2"
   spec.authors       = ["Jason Maggiacomo", "Kris Northfield"]  
   spec.summary       = "A Liquid tag plugin for Jekyll that allows remote includes from external assets."  
-  spec.homepage      = "https://github.com/netrics/jekyll-remote-include"
+  spec.homepage      = "https://github.com/dutkulang/jekyll-remote-include"
   spec.license       = "MIT"
   spec.required_ruby_version = ">= 2.0.0"
 
